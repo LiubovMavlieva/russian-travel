@@ -1,0 +1,22 @@
+.photo-grid__img{
+  min-width: 284px;
+  max-width: 352px;
+}
+
+@media screen and (max-width: 1024px) {
+  .photo-grid__img{
+    min-width: 300px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .photo-grid__img{
+    min-width: 352px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .photo-grid__img{
+    min-width: 288px;
+  }
+}

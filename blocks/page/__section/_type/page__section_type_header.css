@@ -1,0 +1,26 @@
+.page__section_type_header{
+  min-width: 1280px;
+  padding: 28px 48px 0 48px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px){
+  .page__section_type_header{
+    min-width: 1024px;
+    padding: 28px 48px 0 48px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .page__section_type_header{
+    min-width: 768px;
+    padding: 28px 24px 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .page__section_type_header{
+    min-width: 288px;
+    padding: 16px 16px 0 16px;
+  }
+}

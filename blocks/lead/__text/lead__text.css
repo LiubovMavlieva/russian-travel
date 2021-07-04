@@ -1,0 +1,11 @@
+.lead__text{
+  font-family: 'Inter-Regular', 'Arial' , sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  font-weight: 14px;
+  text-transform: uppercase;
+  padding-top: 8px;
+  color: white;
+  margin: 0;
+  align-self: flex-start;
+}
