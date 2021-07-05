@@ -5,6 +5,7 @@
 @import url(../blocks/page/__section/_type/page__section_type_cover.css);
 @import url(../blocks/page/__section/_type/page__section_type_header.css);
 @import url(../blocks/page/__section/_type/page__section_type_footer.css);
+@import url(../blocks/page/__section/_type/page__section_type_photo-grid.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -19,7 +20,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/_position/photo-grid_position_center.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/photo-grid/__img/photo-grid__img.css);
 @import url(../blocks/photo-grid/__table/photo-grid__table.css);
 @import url(../blocks/places/places.css);

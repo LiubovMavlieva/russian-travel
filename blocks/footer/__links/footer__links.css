@@ -4,7 +4,7 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 690px){
   .footer__links{
     min-width: 186px;
     flex-wrap: wrap;
