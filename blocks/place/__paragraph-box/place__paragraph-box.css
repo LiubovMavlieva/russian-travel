@@ -2,9 +2,15 @@
   grid-column: 2;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 668px){
   .place__paragraph-box{
-    grid-column: 1;
-    grid-row: 4;
+  grid-column: 1;
+}
+}
+
+@media screen and (max-width: 320px){
+  .place__paragraph-box{
+    justify-self: self-end;
+    max-width: 288px;
   }
 }

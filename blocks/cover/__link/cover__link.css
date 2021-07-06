@@ -5,6 +5,7 @@
   display: flex;
   align-items: center;
   background-image: url(../../../images/cover-trains.jpg);
+  background-position: center;
   background-size: cover;
   flex-direction: column;
   justify-content: center;
@@ -19,11 +20,12 @@
   left: 0;
   height: 100%;
   width: 100%;
-  background: rgba(0, 0, 0, .2);
+  background: rgba(42, 44, 47, .0);
 }
 
 .cover__link:hover::before{
-  background: rgba(0, 0, 0, .6);
+  background: rgba(42,44,47, .8);
+  transition: ease-in;
 }
 
 @media screen and (max-width: 1024px){

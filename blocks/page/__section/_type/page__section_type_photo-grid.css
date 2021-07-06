@@ -1,11 +1,5 @@
 .page__section_type_photo-grid{
-  margin: 0 auto 129px;
-}
-
-@media screen and (max-width: 1024px){
-  .page__section_type_photo-grid{
-    margin: 0 auto 92px;
-  }
+  margin: 0 auto 92px;
 }
 
 @media screen and (max-width: 768px){

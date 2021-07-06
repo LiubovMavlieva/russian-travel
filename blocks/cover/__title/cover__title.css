@@ -9,8 +9,16 @@
   padding-bottom: 32px;
   max-width: 560px;
 }
-  
-@media screen and (max-width: 320px){
+
+@media screen and (max-width: 500px){
+  .cover__title{
+    font-size: 50px;
+    line-height: 1.2;
+    max-width: 360px;
+  }
+}
+
+@media screen and (max-width: 400px){
   .cover__title{
     font-size: 32px;
     line-height: 35px;

@@ -9,14 +9,35 @@
 
 @media screen and (max-width: 1024px) {
   .place{
+    grid-template-columns: 440px 1fr;
+    row-gap: 48px;
     column-gap: 32px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place{
-    grid-template-columns: auto;
-    column-gap: 32px;
-    margin-bottom: 18px;
+    grid-template-columns: 340px 1fr;
+    row-gap: 48px;
+    margin-bottom: 25px;
+    column-gap: 28px;
+  }
+  .place:last-child{
+    margin-bottom: 42px;
+  }
+}
+
+@media screen and (max-width: 668px) {
+  .place{
+    grid-template-columns: 320px;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place{
+    grid-template-columns: 320px 1fr;
+    margin-bottom: 0;
+    padding-bottom: 50px;
   }
 }
