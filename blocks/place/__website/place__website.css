@@ -27,6 +27,6 @@
     min-width: 288px;
     grid-row: 2;
     grid-column: 1;
-    justify-self: self-end;
+    padding-left: 16px;
   }
 }

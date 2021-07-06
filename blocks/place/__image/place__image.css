@@ -13,6 +13,7 @@
 @media screen and (max-width: 768px) {
   .place__image{
     max-width: 340px;
+    justify-self: center;
   } 
 }
 
