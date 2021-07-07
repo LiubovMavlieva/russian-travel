@@ -39,6 +39,9 @@
     grid-template-columns: 1fr;
     row-gap: 32px;
     margin-bottom: 0;
+    padding-bottom: 50px;
+  }
+  .place:last-child{
     padding-bottom: 24px;
   }
 }
