@@ -16,11 +16,6 @@
     line-height: 26px;
   }
 }
-@media screen and (max-width: 767px){
-  .place__paragraph{
-    font-size:14px ;
-  }
-}
 
 @media screen and (max-width: 668px) {
   .place__paragraph{

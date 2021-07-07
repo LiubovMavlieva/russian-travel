@@ -20,7 +20,7 @@
   left: 0;
   height: 100%;
   width: 100%;
-  background: rgba(42, 44, 47, .0);
+  background: rgba(42, 44, 47, .3);
 }
 
 .cover__link:hover::before{

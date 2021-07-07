@@ -39,6 +39,6 @@
     grid-template-columns: 1fr;
     row-gap: 32px;
     margin-bottom: 0;
-    padding-bottom: 50px;
+    padding-bottom: 24px;
   }
 }
